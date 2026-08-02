@@ -20,6 +20,7 @@ yfinance==1.5.2
 pandas==2.3.2
 numpy==2.2.6
 ta
+curl_cffi
 # pandas-ta==0.4.71b0
 # pandas_ta
 # pandas-ta==0.3.14b0
